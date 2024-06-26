@@ -1,0 +1,4 @@
+name: dvc-projects-data-pipeline
+channels:
+  - defaults
+prefix: /home/precioustosin/anaconda3/envs/dvc-projects-data-pipeline
