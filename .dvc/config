@@ -1,0 +1,8 @@
+[core]
+    remote = gdrive-remote
+['remote "local-remote"']
+    url = /home/precioustosin/Documents/machine-learning/dvcstore
+['remote "gdrive-remote"']
+    url = gdrive://1Ue10yGRbWC3gN9mMdCz6QhLv33wne8tq/dvc-example-get-started
+    gdrive_use_service_account = true
+    gdrive_acknowledge_abuse = true
